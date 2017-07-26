@@ -3,4 +3,5 @@
 
 直接打开dist目录下的index.html即可玩耍
 
-![](./game.png  =500x500)
+<img src="./game.png" width="500" height="500" />
+
